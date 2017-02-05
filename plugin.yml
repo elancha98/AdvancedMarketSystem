@@ -1,0 +1,17 @@
+name: AdvancedMarketSystem
+description: Simple plugin
+version: 1.0
+author: CommandCraft
+depend: [Vault]
+main: me.commandcraft.marketsystem.Main
+
+commands:
+  shop:
+    description: used to open the shop
+permissions:
+  ams.open:
+    default: true
+  ams.user:
+    default: true
+  ams.admin:
+    default: op

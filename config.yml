@@ -1,0 +1,24 @@
+admin:
+  material: BARRIER
+  name: Admin mode
+  data: 0
+normal:
+  material: DIAMOND_SWORD
+  name: Normal mode
+  data: 0
+next_admin:
+  material: WOOL
+  name: Next Page
+  data: 4
+next_normal:
+  material: WOOL
+  name: Next Page
+  data: 4
+prev_admin:
+  material: WOOL
+  name: Previous Page
+  data: 9
+prev_normal:
+  material: WOOL
+  name: Previous Page
+  data: 9
